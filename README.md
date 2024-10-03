@@ -1,2 +1,4 @@
-# Gen_AI_Assignment
-The final assignment of the Generative AI course
+# Gen_AI_Project
+The final project of the Generative AI course.
+Submitted by: Mainuddin Alam Irteja
+
