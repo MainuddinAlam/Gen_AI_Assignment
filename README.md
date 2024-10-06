@@ -12,8 +12,8 @@ Steps to follow:
  * Assign the Name with GEN_AI
  * Assign the Value with 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
 
-This note is also in a text cell in the finalProject.ipynb file. The text cell is right before the code cell in which it is needed
+This note is also in a text cell in the finalProject.ipynb file. The text cell is right before the code cell in which it is needed.
 
 2) Cell outputs have been kept so that one can see the results in Github without running the code.
 
-3) Thank you for viewing this repository
+3) Thank you for viewing this repository.
